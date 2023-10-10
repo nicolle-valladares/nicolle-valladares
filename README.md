@@ -15,6 +15,4 @@ I'm Nicolle Valladares, Software Developer with 4+ years of experience.
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrea-nicolle-valladares-211298166/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/nicollev_7)
 
-<hr>
-
 
